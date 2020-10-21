@@ -51,7 +51,6 @@ function issueRequest(delay: number, serverUrl: string) {
 }
 
 function requestCallback(response: http.IncomingMessage) {
-    console.log('request Callback :::::::::::>')
     let data: any = '';
     response.setEncoding('utf8');
     response.on('data', function(b) {
