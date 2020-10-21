@@ -50,3 +50,9 @@ To run this execute
 ```sh
 npm run test
 ```
+
+## Report and conclusions
+
+For now check the report folder! Some of the execution and analysis description were put there!
+
+Otherwise a great resume will be written to resume all the finding! (Coming later)
